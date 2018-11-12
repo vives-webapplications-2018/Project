@@ -1,0 +1,9 @@
+# Project Jop
+## Wat?
+Calculator die de juiste voorschakelweerstand berekent bij bepaalde LED.
+
+## Waarom?
+Om geen tijd te verliezen bij berekenen.
+
+## Hoe?
+Een grafische interface waarbij het type LED geselecteerd kan worden (If?,kleur,voedingsspanning,...)
