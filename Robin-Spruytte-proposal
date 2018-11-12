@@ -1,0 +1,6 @@
+##What?
+a game where you battle other players using magic rock paper sicsors style. each match ends after one player has lost 3 lives.
+##Why?
+It seems to provide a decent challenge, combining a database, javascript and some css.
+##How?
+By creating a lobby where people can join matches. then creating the matches. After a match is don storing it in a mysql database. The textures can be done by mainly using css and materialise. The spells can easly be changed by having a main spell object.
